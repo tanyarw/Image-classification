@@ -1,2 +1,3 @@
 # Image-classification
-Image classification with Keras using CNN
+
+Simple image classification with Keras using CNN
